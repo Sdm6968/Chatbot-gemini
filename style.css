@@ -353,6 +353,7 @@ body.show-emoji-picker em-emoji-picker{
         flex: 1; /* Take full height minus header & footer */
         overflow-y: auto; /* Allow scrolling for messages */
         padding: 5px;
+        padding-bottom: 50px;
     }
 
     .chat-footer {
